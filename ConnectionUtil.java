@@ -1,5 +1,3 @@
-package clinic.janelaaj.landingpage;
-
 import org.apache.http.HttpResponse;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.entity.StringEntity;
